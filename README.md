@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/KhushalYadav535/KhushalYadav535/main/assets/developer.gif" width="200" align="right" alt="Developer gif">
   
 🌍 Self-taught developer from <b>India 🇮🇳</b> passionate about building impactful applications  
-💡 Specialized in <strong>MERN stack</strong> with <strong>2+ years</strong> of hands-on experience  
+💡 Currently i am learning <strong>web dev</strong>and <strong>DSA/C++ </strong> 
 🎯 Currently exploring <strong>AI/ML</strong> and <strong>System Design</strong>  
 📚 Believer in <strong>"Learn by Building"</strong> philosophy  
 </p>
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-![Khushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushalYadav535&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhushalYadav535&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushalYadav535&layout=compact&theme=radical&hide_border=true&langs_count=8)
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KhushalYadav535&theme=radical&hide_border=true&fire=DD472B)
